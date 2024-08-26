@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.1.0](https://github.com/lukekarrys/npm-cli-release-please/compare/pkg1-v6.0.5...pkg1-v6.1.0) (2024-08-26)
+### Features
+* [`d3df661`](https://github.com/lukekarrys/npm-cli-release-please/commit/d3df66165f07043ad9317f54d130b7b9db68caff) a new featue ok (@lukekarrys)
+### Bug Fixes
+* [`2be6114`](https://github.com/lukekarrys/npm-cli-release-please/commit/2be61146fff435bacd065951a146682d1a4ac7a2) touch all packages (@lukekarrys)
+### Documentation
+* [`f58ff93`](https://github.com/lukekarrys/npm-cli-release-please/commit/f58ff93c678817b95caee71550f989815ac421f4) this is about docs (@lukekarrys)
+### Dependencies
+* [`78f1d16`](https://github.com/lukekarrys/npm-cli-release-please/commit/78f1d16618cde007c8cd9add17596ee26bc09b9e) `some-dep@10.0.0`
+### Chores
+* [`bd6f650`](https://github.com/lukekarrys/npm-cli-release-please/commit/bd6f650a3edfa78ce94abd2fae47df624ee95e4b) touch all packages (@lukekarrys)
+* [workspace](https://github.com/lukekarrys/npm-cli-release-please/releases/tag/pkg2-v5.1.0): `pkg2@5.1.0`
+
 ## [6.0.5](https://github.com/lukekarrys/npm-cli-release-please/compare/pkg1-v6.0.4...pkg1-v6.0.5) (2024-08-26)
 
 ### Bug Fixes

@@ -11,7 +11,7 @@ on:
 jobs:
   audit:
     name: Audit Dependencies
-    if: github.repository_owner == 'npm'
+    if: github.repository_owner == 'lukekarrys'
     runs-on: ubuntu-latest
     defaults:
       run:

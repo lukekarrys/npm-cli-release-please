@@ -10,7 +10,7 @@ permissions:
 jobs:
   template-oss:
     name: template-oss
-    if: github.repository_owner == 'npm' && github.actor == 'dependabot[bot]'
+    if: github.repository_owner == 'lukekarrys' && github.actor == 'dependabot[bot]'
     runs-on: ubuntu-latest
     defaults:
       run:

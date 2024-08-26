@@ -1,5 +1,26 @@
 # Changelog
 
+## [6.0.5](https://github.com/lukekarrys/npm-cli-release-please/compare/pkg1-v6.0.4...pkg1-v6.0.5) (2024-08-26)
+
+### Bug Fixes
+
+* [`4084598`](https://github.com/lukekarrys/npm-cli-release-please/commit/40845980cbf7781937cd939d5d983785e260c678) try new template-oss (@lukekarrys)
+* [`bce749b`](https://github.com/lukekarrys/npm-cli-release-please/commit/bce749b370f9766c381b5ce93ac4b03227158b36) try new template-oss (@lukekarrys)
+* [`105b9ba`](https://github.com/lukekarrys/npm-cli-release-please/commit/105b9ba93eec8d35f0559e7b45539127b7e76636) try new template-oss (@lukekarrys)
+* [`7b11a09`](https://github.com/lukekarrys/npm-cli-release-please/commit/7b11a0974193340810bf6feea0ed4d8b060e1097) [#245](https://github.com/lukekarrys/npm-cli-release-please/pull/245) touch pkg1 (@lukekarrys)
+
+### Chores
+
+* [`e93ce0c`](https://github.com/lukekarrys/npm-cli-release-please/commit/e93ce0ce38bb8e628c6ea5de0087d62664121a24) update template-oss (@lukekarrys)
+* [`540f354`](https://github.com/lukekarrys/npm-cli-release-please/commit/540f354cdcd1f9229a7038148254ded028d991a6) update template-oss (@lukekarrys)
+* [`8bdee7d`](https://github.com/lukekarrys/npm-cli-release-please/commit/8bdee7d531d9475c63771399e62de2c983e9cf4f) update template-oss (@lukekarrys)
+* [`b020bd0`](https://github.com/lukekarrys/npm-cli-release-please/commit/b020bd0b791a2f20d2b6e23e5dc5ad2a73ebc207) update template-oss (@lukekarrys)
+
+
+### Dependencies
+
+* [workspace](https://github.com/lukekarrys/npm-cli-release-please/releases/tag/pkg2-v5.0.5): `pkg2@5.0.5`
+
 ## [6.0.4](https://github.com/npm/npm-cli-release-please/compare/pkg1-v6.0.3...pkg1-v6.0.4) (2023-11-19)
 
 ### Bug Fixes
